@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-final/piq-opt-6-community.md",
+                "file": "04-final/uc-activities-350char.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "piq-opt-6-community"
+              "title": "uc-activities-350char"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-final/piq-opt-6-community.md",
+                "file": "04-final/uc-activities-350char.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-final/piq-opt-6-community.md",
+                "file": "04-final/uc-activities-350char.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-final/piq-opt-6-community.md",
+                "file": "04-final/uc-activities-350char.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,11 +190,13 @@
   },
   "active": "9af9e79a2ae9f171",
   "lastOpenFiles": [
-    "03-drafts/piq-opt-4-barrier-v5.md",
-    "03-drafts/piq-opt-1-leadership-v5.md",
+    "04-final/piq-required-major.md",
+    "04-final/piq-opt-6-community.md",
     "04-final/piq-opt-4-barrier.md",
     "04-final/piq-opt-1-leadership.md",
-    "04-final/piq-required-major.md",
+    "04-final/AUDIT-REPORT.md",
+    "03-drafts/piq-opt-4-barrier-v5.md",
+    "03-drafts/piq-opt-1-leadership-v5.md",
     "03-drafts/piq-opt-4-barrier-v4.md",
     "03-drafts/piq-opt-1-leadership-v4.md",
     "00-context/confirmed-details.md",
@@ -215,7 +217,6 @@
     "03-drafts/piq-opt-1-leadership-v3.md",
     "00-context/v3-revision-brief.md",
     "03-drafts/piq-opt-6-community-v2.md",
-    "03-drafts/piq-opt-6-community-v1.md",
-    "04-final/piq-opt-6-community.md"
+    "03-drafts/piq-opt-6-community-v1.md"
   ]
 }

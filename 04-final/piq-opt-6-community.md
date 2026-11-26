@@ -1,9 +1,9 @@
 # Optional PIQ #6 Community - FINAL
 Prompt: What have you done to make your school or your community a better place?
 
-Most afternoons, the Innovation Center makerspace at Folsom Lake College sat nearly empty, with idle 3D printers and clear benches. FLC is a commuter college, and most STEM students I knew drove in for class, went to work, and drove home. They could solve a circuit on paper but had never wired one, and few knew the makerspace was open to them.
+Most afternoons, the Innovation Center makerspace at Folsom Lake College sat nearly empty, with idle 3D printers and clear benches. FLC is a commuter college. Most STEM students I knew drove in for class, went to work, and drove home. They could solve a circuit on paper but had never wired one, and few knew the makerspace was open to them.
 
-I knew what they were missing because my own Tech Summit team had spent hours chasing a power-draw problem on our solar tracker. As Workshops Coordinator for the FLC Math & Engineering Club, I ran hands-on sessions in that room, Aspen Hall FL1-130, every other week, rotating Fusion 360, Arduino breadboarding, and Python for physics labs. A typical session drew 12 to 18 students, many building hardware for the first time.
+I knew what they were missing. My own Tech Summit team had spent hours chasing a power-draw problem on our solar tracker. As Workshops Coordinator for the FLC Math & Engineering Club, I ran hands-on sessions in that room, Aspen Hall FL1-130, every other week. I rotated between Fusion 360, Arduino breadboarding, and Python for physics labs. A typical session drew 12 to 18 students, many building hardware for the first time.
 
 My first Arduino night went badly. I planned too much, and most of the room ran out of time before an LED blinked, so I cut the next session to one circuit and let students find their own mistakes.
 
