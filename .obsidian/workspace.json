@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-final/piq-opt-4-barrier.md",
+                "file": "04-final/piq-required-major.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "piq-opt-4-barrier"
+              "title": "piq-required-major"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-final/piq-opt-4-barrier.md",
+                "file": "04-final/piq-required-major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-final/piq-opt-4-barrier.md",
+                "file": "04-final/piq-required-major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-final/piq-opt-4-barrier.md",
+                "file": "04-final/piq-required-major.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,18 +190,19 @@
   },
   "active": "9af9e79a2ae9f171",
   "lastOpenFiles": [
+    "04-final/piq-opt-1-leadership.md.tmp.159800.e21cdc7b2fe3",
+    "04-final/piq-opt-1-leadership.md.tmp.159800.6f05053e17d2",
+    "04-final/piq-opt-1-leadership.md.tmp.159800.dc427395d117",
+    "04-final/piq-opt-4-barrier.md",
+    "04-final/piq-opt-1-leadership.md.tmp.159800.937e5c5d408c",
+    "04-final/piq-required-major.md.tmp.159800.35fa500c7cf3",
     "04-final/AUDIT-REPORT.md.tmp.159800.9372e67a0ea4",
     "04-final/piq-opt-6-community.md.tmp.159800.1f06596ca9c0",
     "04-final/piq-opt-6-community.md.tmp.159800.0d3b4417d4a1",
     "04-final/piq-opt-4-barrier.md.tmp.159800.e078f544af0e",
     "04-final/piq-opt-4-barrier.md.tmp.159800.148e422bc995",
     "04-final/piq-opt-1-leadership.md.tmp.159800.a464ef66dd4a",
-    "04-final/piq-required-major.md.tmp.159800.e044d16ec91f",
     "04-final/uc-additional-comments.md",
-    "04-final/uc-additional-comments.md.tmp.159800.b1fbcac53ee8",
-    "04-final/piq-required-major.md.tmp.159800.51d0fb3dd07d",
-    "04-final/piq-required-major.md.tmp.159800.3ecaf7fe98f6",
-    "04-final/piq-required-major.md.tmp.159800.9ff4bf766405",
     "03-drafts/piq-opt-4-barrier-v3.md",
     "03-drafts/piq-required-major-v3.md",
     "03-drafts/piq-opt-6-community-v3.md",
